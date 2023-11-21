@@ -1,7 +1,7 @@
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 
-public class Quiz {
+public class Quiz  {
 
     public static void main(String[] args) throws Exception {
         MessageDigest md = MessageDigest.getInstance("MD5");
